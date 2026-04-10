@@ -1,24 +1,21 @@
-# [Your Name / Handle] — Skills Profile
+# [Your Name] — Skills Profile
 
-> Copy this file, fill it out, save it as `applicants/YOUR-NAME.md`, and submit a PR.
-> Be specific. Be honest. No fluff.
+Copy this, fill it out honestly, save it as `applicants/YOUR-NAME.md`, and submit a PR.
 
 ---
 
 ## Name / Handle
-<!-- What should we call you? GitHub handle, real name, or both. -->
+Your name, GitHub handle, or both.
 
 ---
 
 ## Core Identity
-<!-- One or two lines. Your role, background, and how you'd describe yourself to a peer. -->
-<!-- Example: "Full-stack engineer turned AI founder. Former fintech, now building autonomous agents." -->
+One or two lines. Who you are and what you do. Write it like you'd say it to a peer, not a recruiter.
 
 ---
 
 ## Technical Skills
-<!-- List what you've actually worked with. Tools, languages, platforms, infrastructure. -->
-<!-- Don't list things you've only read about. -->
+What you've actually built with. No padding.
 
 -
 -
@@ -26,9 +23,8 @@
 
 ---
 
-## GTM & Business Skills
-<!-- Sales, partnerships, marketing, product, ops — anything that gets things to market. -->
-<!-- Skip this section if it doesn't apply, but be honest. -->
+## GTM and Business Skills
+Sales, partnerships, marketing, ops, product. Skip it if it doesn't apply.
 
 -
 -
@@ -37,8 +33,7 @@
 ---
 
 ## AI Experience
-<!-- Models, frameworks, tools, and APIs you've actually used in production or serious projects. -->
-<!-- Examples: Claude API, LangChain, MCP, OpenAI, fine-tuning, RAG, agent orchestration, etc. -->
+Tools, models, APIs, frameworks you've used in real projects. Not just read about.
 
 -
 -
@@ -47,7 +42,7 @@
 ---
 
 ## Current or Recent Projects
-<!-- What have you shipped or what are you actively building? Links welcome. -->
+What are you building or what have you shipped? Links welcome.
 
 -
 -
@@ -55,10 +50,10 @@
 
 ---
 
-## What I Want to Build in This Practice
-<!-- Why are you applying? What do you want to work on, learn, or create together? -->
+## What I Want to Build Here
+Why are you applying and what do you want to work on?
 
 ---
 
 ## Superpower
-<!-- One line. What do you do better than almost anyone? -->
+One line. What do you do better than almost anyone?

@@ -1,46 +1,42 @@
 # Claude Partner Network — Skills Roster
 
-The Claude Partner Network is a curated group of builders, operators, and AI practitioners working together to design, ship, and scale real AI-powered products and programs.
+The Claude Partner Network is a curated group of builders and operators working together to ship real AI products and programs.
 
 ---
 
-## What We're Building Together
+## What We're Building
 
-This is SD's practice team — a small, high-signal group building things that matter:
+This is SD's practice team. Small group, high signal, real output.
 
-- AI-native products (apps, agents, MCP servers)
-- GTM programs and co-sell motions powered by AI
-- Infrastructure for multi-agent workflows
-- Real-world AI literacy and adoption programs
+We're building:
 
-We move fast, build in public where it makes sense, and help each other go further than we would alone.
+- AI-native apps and agents
+- GTM programs powered by AI
+- Multi-agent infrastructure
+- AI literacy programs that actually land
+
+No hype. No theory. Just people who build things and want to go further together.
 
 ---
 
 ## How to Apply
 
-1. **Fork this repo**
+1. Fork this repo to your own GitHub account
 2. Copy `skills-template.md`
-3. Fill it out honestly — no fluff, real skills only
-4. Save it as `applicants/YOUR-NAME.md`
-5. Submit a pull request
+3. Fill it out — real skills only, no fluff
+4. Save it as `applicants/YOUR-NAME.md` inside your fork
+5. Open a pull request back to this repo
 
-We review on a rolling basis. Strong applicants ship things. Bonus points if you include a link to something you've built.
-
----
-
-## Rolling Admissions
-
-Applications are reviewed on a **rolling basis**. There's no hard deadline — but spots are limited and we move fast, so don't sit on it.
+Rolling basis. Spots are limited. If you ship things, say so.
 
 ---
 
-## Current Roster
+## Roster
 
 | Name | Role | Superpower |
 |------|------|------------|
-| [SD](applicants/SDskills.md) | Founder · CE @ Google Cloud | Translating complex AI infrastructure into real business outcomes — and making it move fast. |
+| [SD](applicants/SDskills.md) | Founder + CE @ Google Cloud | Translating complex AI infrastructure into real business outcomes and making it move fast. |
 
 ---
 
-*Built with Claude. Operated by humans who know what they're doing.*
+Built with Claude.
